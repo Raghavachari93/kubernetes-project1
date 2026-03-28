@@ -190,7 +190,7 @@ This will automatically open your browser and display the <strong>Nginx Welcome 
 
 <hr>
 
-<h2>❌ Common Mistakes</h2>
+<h2>Common Mistakes</h2>
 
 <ul>
   <li>Incorrect labels (Service won’t connect)</li>
@@ -201,7 +201,7 @@ This will automatically open your browser and display the <strong>Nginx Welcome 
 
 <hr>
 
-<h2>🚀 Optional Enhancements</h2>
+<h2>Optional Enhancements</h2>
 
 <ul>
   <li>Increase replicas (3–5)</li>
@@ -211,7 +211,7 @@ This will automatically open your browser and display the <strong>Nginx Welcome 
 
 <hr>
 
-<h2>🧠 Interview Insight</h2>
+<h2>Interview Insight</h2>
 
 <p><strong>Q: What happens when a pod crashes?</strong></p>
 
@@ -221,7 +221,7 @@ Deployment ensures the desired state. If a pod fails, Kubernetes automatically r
 
 <hr>
 
-<h2>🎯 Learning Outcomes</h2>
+<h2> Learning Outcomes</h2>
 
 <ul>
   <li>Kubernetes Deployment</li>
@@ -232,7 +232,7 @@ Deployment ensures the desired state. If a pod fails, Kubernetes automatically r
 
 <hr>
 
-<h2>🔎 SEO Keywords</h2>
+
 
 <p>
 Kubernetes project, Minikube tutorial, Kubernetes deployment example, Nginx Kubernetes, 
@@ -242,21 +242,7 @@ Kubernetes hands-on project, Kubernetes GitHub project.
 
 <hr>
 
-<h2>🧭 Next Steps</h2>
 
-<p>
-After completing this project:
-</p>
-
-<ul>
-  <li>Push code to GitHub</li>
-  <li>Practice scaling & debugging</li>
-  <li>Move to <strong>ConfigMaps & Secrets</strong></li>
-</ul>
-
-<hr>
-
-<h2>⭐ Support</h2>
 
 <p>
 If you found this helpful, consider giving this repository a ⭐ and sharing it with others learning Kubernetes!
